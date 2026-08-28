@@ -42,6 +42,10 @@ main {
     line-height: 25px;
 }
 
+main h2 {
+    padding: 10px 0px;
+}
+
 main article aside {
     background-color: rgb(219, 219, 219);
     padding: 20px;
@@ -59,13 +63,14 @@ main ul {
 }
 
 footer {
-    background-color: var(--cor4);
+    background-color:#3d3c3c;
     text-align: center;
     color: white;
     padding: 20px;
 }
 
 footer h3 {
+    text-align: center;
     padding: 0px 0px 10px 0px;
 }
 
